@@ -10,8 +10,8 @@ Get your Discord Profile with a nice Streaming Status & the temperature of the c
 4) Change the "city" var with the city name you want
 
 # Warning ⚠️
-Discord Self-Bot aren't authorized, you can get your account banned
-I'm not responsable if you got your account banned
+Discord Self-Bot aren't authorized, you can get your account banned,
+I'm not responsable if you got your account banned,
 Read more here: https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
 
 # Neccessary Install 🐢
