@@ -16,11 +16,11 @@ async def weather_status():
     r = requests.get(f'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}').json()
     value = int(r['main']['temp']) - int(273.15)
     r = str(value)
-    btc_stream = discord.Streaming(
+    weather_stream = discord.Streaming(
         name="Current Paris Temperature: " + r + "°C ☁️",
         url="https://www.youtube.com/watch?v=UfEiKK-iX70"
     )
-    await bot.change_presence(activity=btc_stream)
+    await bot.change_presence(activity=weather_stream)
     
 @bot.event 
 async def on_connect():
