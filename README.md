@@ -21,4 +21,4 @@ pip install requests
 ```
 # Exemple 👀
 
-![Self Exemple](https://cdn.discordapp.com/attachments/808966514333057027/812022278178078720/Profile.PNG)
+![Self Exemple](https://cdn.discordapp.com/attachments/808966514333057027/812022278178078720/Profile.PNG) 
